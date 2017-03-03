@@ -1,3 +1,5 @@
+package com.lwolf.javaexam1;
+
 /**
  * Created by kdhaliwal on 3/3/2017.
  */
